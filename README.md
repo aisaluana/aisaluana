@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**aisaluana/aisaluana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### - 🔭 I’m currently working on developing a portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### - 🌱 I’m currently learning Object Oriented Programming.
+
+##### - 👯 I’m looking to collaborate on 
+
+##### - 🤔 I’m looking for help with Java.
+
+##### - 💬 Ask me about Career Transition.
+
+##### - 📫 How to reach me: @aisaluana
+
+##### - 😄 Pronouns: She/Her
+
+##### - ⚡ Fun fact: My first graduation is on Linguistics.
+
