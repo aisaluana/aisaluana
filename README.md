@@ -1,19 +1,24 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my GitHub profile!
 
 
-##### - 🔭 I’m currently working on developing a portfolio.
+## - 🔭 I’m currently working on developing a portfolio.
 
-##### - 🌱 I’m currently learning Object Oriented Programming.
+## - 🌱 I’m currently learning:
 
-##### - 👯 I’m looking to collaborate on 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
 
-##### - 🤔 I’m looking for help with Java.
+## - 👯 I’m looking to collaborate on 
 
-##### - 💬 Ask me about Career Transition.
+## - 🤔 I’m looking for help with Java.
 
-##### - 📫 How to reach me: @aisaluana
+## - 💬 Ask me about Career Transition.
 
-##### - 😄 Pronouns: She/Her
+## - 📫 How to reach me: @aisaluana
 
-##### - ⚡ Fun fact: My first graduation is on Linguistics.
+## - 😄 Pronouns: She/Her
+
+## - ⚡ Fun fact: My first graduation is on Linguistics.
 
