@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! I'm Aisa Luana! ![Meu Memoji](https://www.pngfind.com/pngs/m/678-6782735_girl-memoji-hd-png-download.png)
+# Welcome to my GitHub profile! I'm Aisa Luana! ![Meu Memoji](678-6782735_girl-memoji-hd-png-download.png)
 [![Instagram](https://e7.pngegg.com/pngimages/103/197/png-clipart-computer-icons-instagram-icon-text-logo.png)](https://www.instagram.com/aisaluanaroutine/) [![twitter](https://i.pinimg.com/474x/55/d2/0c/55d20c74676e13c18110273a613508cb.jpg)](https://twitter.com/aisaluanart) [![linkedin](https://w7.pngwing.com/pngs/593/197/png-transparent-in-signage-computer-icons-linkedin-desktop-social-media-linked-in-text-trademark-logo.png)](https://www.linkedin.com/in/aisaluana/) 
 
 ## Hi there 👋
