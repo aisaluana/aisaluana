@@ -1,5 +1,15 @@
 # Welcome to my GitHub profile! I'm Aisa Luana! ![Meu Memoji](678-6782735_girl-memoji-hd-png-download.png)
-[![Instagram](https://e7.pngegg.com/pngimages/103/197/png-clipart-computer-icons-instagram-icon-text-logo.png)](https://www.instagram.com/aisaluanaroutine/) [![twitter](https://i.pinimg.com/474x/55/d2/0c/55d20c74676e13c18110273a613508cb.jpg)](https://twitter.com/aisaluanart) [![linkedin](https://w7.pngwing.com/pngs/593/197/png-transparent-in-signage-computer-icons-linkedin-desktop-social-media-linked-in-text-trademark-logo.png)](https://www.linkedin.com/in/aisaluana/) 
+[![Instagram](https://www.svgrepo.com/show/521711/instagram.svg)](https://www.instagram.com/aisaluanaroutine/) 
+
+[![twitter](https://i.pinimg.com/474x/55/d2/0c/55d20c74676e13c18110273a613508cb.jpg)](https://twitter.com/aisaluanart) 
+
+[![linkedin](https://w7.pngwing.com/pngs/593/197/png-transparent-in-signage-computer-icons-linkedin-desktop-social-media-linked-in-text-trademark-logo.png)](https://www.linkedin.com/in/aisaluana/) 
+
+<div>
+<a href="https://instagram.com/aisaluana" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aisaluana" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/aisaluanadev" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url">
+</div>
 
 ## Hi there 👋
 Tenho 22 anos, moro em Recife-PE. Programação foi uma paixão surpresa que chegou com força na minha vida! Quanto mais eu me permito, mas eu aprendo nessa vida!
